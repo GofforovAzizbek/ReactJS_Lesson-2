@@ -6,11 +6,19 @@ import card4 from "../../assets/card4.svg";
 
 const Cards = () => {
   return (
-    <div className="container mx-auto  py-19.5 px-29.5 flex max-w-285 justify-between items-center">
-      <img src={card1} alt="" />
-      <img src={card2} alt="" />
-      <img src={card3} alt="" />
-      <img src={card4} alt="" />
+    <div className="container mx-auto flex justify-between items-center py-[75px] px-[115px] shadow-2xl">
+      <a href="">
+        <img src={card1} alt="" />
+      </a>
+      <a href="">
+        <img src={card2} alt="" />
+      </a>
+      <a href="">
+        <img src={card3} alt="" />
+      </a>
+      <a href="">
+        <img src={card4} alt="" />
+      </a>
     </div>
   );
 };
