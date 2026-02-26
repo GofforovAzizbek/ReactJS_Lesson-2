@@ -296,35 +296,35 @@ const App = () => {
               </h4>
               <a
                 href="#"
-                className="font-hind-siliguri font-normal text-[14px] leading-[100%] tracking-[0%] text-[#fff] mb-[15px]"
+                className="font-hind-siliguri font-normal text-[14px] leading-[100%] tracking-[0%] text-[#fff] inline-block mb-[11px]"
               >
                 New Collection
               </a>
               <br />
               <a
                 href="#"
-                className="font-hind-siliguri font-normal text-[14px] leading-[100%] tracking-[0%] text-[#fff] mb-[15px]"
+                className="font-hind-siliguri font-normal text-[14px] leading-[100%] tracking-[0%] text-[#fff] inline-block mb-[11px]"
               >
                 About Store
               </a>
               <br />
               <a
                 href="#"
-                className="font-hind-siliguri font-normal text-[14px] leading-[100%] tracking-[0%] text-[#fff] mb-[15px]"
+                className="font-hind-siliguri font-normal text-[14px] leading-[100%] tracking-[0%] text-[#fff] inline-block mb-[11px]"
               >
                 Contact Us
               </a>
               <br />
               <a
                 href="#"
-                className="font-hind-siliguri font-normal text-[14px] leading-[100%] tracking-[0%] text-[#fff] mb-[15px]"
+                className="font-hind-siliguri font-normal text-[14px] leading-[100%] tracking-[0%] text-[#fff] inline-block mb-[11px]"
               >
                 Latest News
               </a>
               <br />
               <a
                 href="#"
-                className="font-hind-siliguri font-normal text-[14px] leading-[100%] tracking-[0%] text-[#fff] mb-[15px]"
+                className="font-hind-siliguri font-normal text-[14px] leading-[100%] tracking-[0%] text-[#fff] inline-block mb-[11px]"
               >
                 Our Sitemap
               </a>
@@ -343,35 +343,35 @@ const App = () => {
               </h4>
               <a
                 href="#"
-                className="font-hind-siliguri font-normal text-[14px] leading-[100%] tracking-[0%] text-[#fff]"
+                className="font-hind-siliguri font-normal text-[14px] leading-[100%] tracking-[0%] text-[#fff] inline-block mb-[11px]"
               >
                 Instagram profile
               </a>
               <br />
               <a
                 href="#"
-                className="font-hind-siliguri font-normal text-[14px] leading-[100%] tracking-[0%] text-[#fff]"
+                className="font-hind-siliguri font-normal text-[14px] leading-[100%] tracking-[0%] text-[#fff] inline-block mb-[11px]"
               >
                 New Collection
               </a>
               <br />
               <a
                 href="#"
-                className="font-hind-siliguri font-normal text-[14px] leading-[100%] tracking-[0%] text-[#fff]"
+                className="font-hind-siliguri font-normal text-[14px] leading-[100%] tracking-[0%] text-[#fff] inline-block mb-[11px]"
               >
                 Contact Us
               </a>
               <br />
               <a
                 href="#"
-                className="font-hind-siliguri font-normal text-[14px] leading-[100%] tracking-[0%] text-[#fff]"
+                className="font-hind-siliguri font-normal text-[14px] leading-[100%] tracking-[0%] text-[#fff] inline-block mb-[11px]"
               >
                 Latest News
               </a>
               <br />
               <a
                 href="#"
-                className="font-hind-siliguri font-normal text-[14px] leading-[100%] tracking-[0%] text-[#fff]"
+                className="font-hind-siliguri font-normal text-[14px] leading-[100%] tracking-[0%] text-[#fff] inline-block mb-[11px]"
               >
                 Terms & Conditions
               </a>
@@ -390,35 +390,35 @@ const App = () => {
               </h4>
               <a
                 href="#"
-                className="font-hind-siliguri font-normal text-[14px] leading-[100%] tracking-[0%] text-[#fff]"
+                className="font-hind-siliguri font-normal text-[14px] leading-[100%] tracking-[0%] text-[#fff] inline-block mb-[11px]"
               >
                 Instagram profile
               </a>
               <br />
               <a
                 href="#"
-                className="font-hind-siliguri font-normal text-[14px] leading-[100%] tracking-[0%] text-[#fff]"
+                className="font-hind-siliguri font-normal text-[14px] leading-[100%] tracking-[0%] text-[#fff] inline-block mb-[11px]"
               >
                 New Collection
               </a>
               <br />
               <a
                 href="#"
-                className="font-hind-siliguri font-normal text-[14px] leading-[100%] tracking-[0%] text-[#fff]"
+                className="font-hind-siliguri font-normal text-[14px] leading-[100%] tracking-[0%] text-[#fff] inline-block mb-[11px]"
               >
                 Contact Us
               </a>
               <br />
               <a
                 href="#"
-                className="font-hind-siliguri font-normal text-[14px] leading-[100%] tracking-[0%] text-[#fff]"
+                className="font-hind-siliguri font-normal text-[14px] leading-[100%] tracking-[0%] text-[#fff] inline-block mb-[11px]"
               >
                 Latest News
               </a>
               <br />
               <a
                 href="#"
-                className="font-hind-siliguri font-normal text-[14px] leading-[100%] tracking-[0%] text-[#fff]"
+                className="font-hind-siliguri font-normal text-[14px] leading-[100%] tracking-[0%] text-[#fff] inline-block mb-[11px]"
               >
                 Terms & Conditions
               </a>
